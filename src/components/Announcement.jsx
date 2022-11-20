@@ -15,7 +15,7 @@ font-weight: 500;
 const Announcement = () => {
   return (
     <Container>
-       Free shipping available countrywide 
+       Free delivery available countrywide 
     </Container>
   )
 }
